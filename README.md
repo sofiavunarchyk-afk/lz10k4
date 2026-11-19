@@ -4,6 +4,8 @@
 
 **Варіант:** 1
 
+**Виконала:** Винарчик Софія, 4 СОМ
+
 **Мета:** набути практичних навичок створення, модифікації, пошуку та візуалізації елементів однозв'язного списку за допомогою стандартного контейнера `std::forward_list` у графічному інтерфейсі Windows Forms.
 
 ---
@@ -76,7 +78,8 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 |---|---|
 | 12.5, 55, 8.3, 99.1, 55, 4 | 55, 8.3, 55, 4 |
 
-<!-- Тут вставити скріншот роботи програми (вкладка «Завдання А») -->
+<img width="1701" height="955" alt="image" src="https://github.com/user-attachments/assets/07d8384a-cbdf-42f1-af3e-94df4620511b" />
+
 
 ### Завдання Б. Оцінки студентів
 
@@ -153,7 +156,8 @@ private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e
 
 Середній бал: (11 + 10 + 8 + 12 + 9 + 7) / 6 = 57 / 6 = **9.50**
 
-<!-- Тут вставити скріншот роботи програми (вкладка «Завдання Б») -->
+<img width="1681" height="971" alt="image" src="https://github.com/user-attachments/assets/5b3d5929-b227-495f-87d0-1b497f48434d" />
+
 
 ---
 
